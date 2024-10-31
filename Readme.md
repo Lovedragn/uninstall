@@ -4,4 +4,3 @@
 > Git reset soft <"commit">
 > >Git saved commit revert command
 > >>Git commit Safe
-> >>>Git Revert 
